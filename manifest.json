@@ -3,7 +3,7 @@
 	"short_name": "Windlike Music", 
 	"description": "Music App", 
 	"display": "standalone", 
-	"start_url": "/", 
+	"start_url": "/WindlikeMusic/", 
 	"theme_color": "#313131", 
 	"orientation": "portrait",
 	"background_color": "#313131", 
