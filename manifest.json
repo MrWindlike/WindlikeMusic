@@ -4,9 +4,9 @@
 	"description": "Music App", 
 	"display": "standalone", 
 	"start_url": "/WindlikeMusic/", 
-	"theme_color": "#313131", 
+	"theme_color": "#f8f8ff", 
 	"orientation": "portrait",
-	"background_color": "#313131", 
+	"background_color": "#f8f8ff", 
 	"icons": [
 		{
 			"src": "icon-192x192.png",
