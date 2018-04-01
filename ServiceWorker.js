@@ -3,7 +3,6 @@ var cacheStorageKey = 'minimal-pwa-2';
 var cacheList = [
   './',
   "index.html",
-  "app.js",
   "./icon.png"
 ];
 
