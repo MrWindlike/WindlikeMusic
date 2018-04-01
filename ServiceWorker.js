@@ -42,7 +42,8 @@ self.addEventListener('fetch', function(e) {
     caches.match(e.request).then(function(response) {
       if (response != null) {
         console.log('Using cache for:', e.request.url)
-        return response
+        // return response
+        return ;
       }
       console.log('Fallback to fetch:', e.request.url)
       return fetch(e.request.url)
